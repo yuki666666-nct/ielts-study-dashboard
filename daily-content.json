@@ -1,0 +1,358 @@
+{
+  "version": 1,
+  "timezone": "Asia/Shanghai",
+  "updatedAt": "2026-10-31",
+  "note": "原创站内听力练习（非官方真题）。词汇库目前含2组共40词，按日期轮换；听力练习含7组按日期轮换。",
+  "vocabularyBatches": [
+    [
+      [
+        "allocate",
+        "分配；拨给",
+        "allocate ≈ 把位置“挪给”某项任务",
+        "The university allocated more funds to student support."
+      ],
+      [
+        "compelling",
+        "令人信服的；引人入胜的",
+        "compel 是“迫使”； compelling 的理由让人不得不信",
+        "The report provides compelling evidence for the policy."
+      ],
+      [
+        "consecutive",
+        "连续的",
+        "connect 一节一节连起来 → consecutive days 连续几天",
+        "She studied for five consecutive evenings."
+      ],
+      [
+        "decline",
+        "下降；拒绝",
+        "de- 往下 + line 线 → 曲线下降；也可婉拒邀请",
+        "The number of applicants declined slightly."
+      ],
+      [
+        "emerge",
+        "出现；显现",
+        "emerge 想成从紧急出口 emerge 出来 → 出现",
+        "A clear pattern emerged from the survey."
+      ],
+      [
+        "fluctuate",
+        "波动",
+        "想象数字像 flake 一样上下飘 → fluctuate",
+        "House prices fluctuate from year to year."
+      ],
+      [
+        "incentive",
+        "激励；动机",
+        "incentive 里有 cent（钱）→ 奖金是一种激励",
+        "Financial incentives can encourage people to recycle."
+      ],
+      [
+        "interpret",
+        "解释；理解",
+        "inter（之间）+ pret（说）→ 在信息之间解释含义",
+        "The results should be interpreted with caution."
+      ],
+      [
+        "justify",
+        "证明……合理",
+        "just + ify → 让决定变得“公正合理”",
+        "The benefits do not justify the high cost."
+      ],
+      [
+        "maintain",
+        "维持；坚持认为",
+        "maintain 像 maintenance 维修保养 → 让状态维持",
+        "It is difficult to maintain a healthy work-life balance."
+      ],
+      [
+        "notion",
+        "观念；看法",
+        "notion 听起来像 note 的想法笔记 → 一个观念",
+        "The notion that success requires luck is widespread."
+      ],
+      [
+        "obtain",
+        "获得",
+        "obtain 想成“把目标拿到手”",
+        "Students can obtain feedback from their tutors."
+      ],
+      [
+        "priority",
+        "优先事项",
+        "prior（在前）→ 排在前面的事情就是 priority",
+        "Improving public transport should be a priority."
+      ],
+      [
+        "relevant",
+        "相关的",
+        "re- 回到 + levant（抬起）→ 把相关信息提出来",
+        "Please include only relevant details in your answer."
+      ],
+      [
+        "significant",
+        "显著的；重要的",
+        "sign（标记）+ ificant → 值得做标记的重要变化",
+        "There was a significant improvement in test scores."
+      ],
+      [
+        "trend",
+        "趋势",
+        "把 trend 想成数据线持续朝一个方向走",
+        "The graph shows an upward trend in online sales."
+      ],
+      [
+        "valid",
+        "有效的；合理的",
+        "valid 与 value 同源联想：有价值、站得住脚",
+        "The study raises a valid question."
+      ],
+      [
+        "widespread",
+        "广泛的",
+        "wide（宽）+ spread（铺开）→ 广泛传播",
+        "The use of smartphones is widespread among teenagers."
+      ],
+      [
+        "yield",
+        "产生；屈服",
+        "种子 yield（产出）庄稼；谈判中 yield 是让步",
+        "The new method yielded better results."
+      ],
+      [
+        "approximately",
+        "大约",
+        "approximate 像“靠近那个数”但不完全精确",
+        "The journey takes approximately two hours."
+      ]
+    ],
+    [
+      [
+        "acknowledge",
+        "承认；感谢",
+        "knowledge（知道）→ acknowledge 是承认知道某事",
+        "The author acknowledges the limits of the research."
+      ],
+      [
+        "beneficial",
+        "有益的",
+        "benefit + al → 带来好处的",
+        "Regular exercise is beneficial to mental health."
+      ],
+      [
+        "challenge",
+        "挑战；质疑",
+        "challenge 像把问题抛给你，需要回应",
+        "This evidence challenges the traditional view."
+      ],
+      [
+        "demonstrate",
+        "展示；证明",
+        "demo（演示）→ demonstrate 就是清楚展示",
+        "The experiment demonstrates how memory works."
+      ],
+      [
+        "efficient",
+        "高效的",
+        "effort 用得少、效果出来快 → efficient",
+        "Online forms make the process more efficient."
+      ],
+      [
+        "fundamental",
+        "根本的；基础的",
+        "foundation（地基）联想 fundamental 基础的",
+        "Trust is fundamental to a good relationship."
+      ],
+      [
+        "generate",
+        "产生；生成",
+        "generator（发电机）能 generate 电",
+        "The scheme generated considerable interest."
+      ],
+      [
+        "hypothesis",
+        "假设",
+        "hypo（下面）+ thesis（论点）→ 尚待验证的底层论点",
+        "The researchers tested their hypothesis."
+      ],
+      [
+        "impact",
+        "影响",
+        "impact 像撞击产生后果 → 影响",
+        "Tourism has a major impact on the local economy."
+      ],
+      [
+        "indicate",
+        "表明；指出",
+        "index（索引）指向信息 → indicate 表明",
+        "The findings indicate a need for further study."
+      ],
+      [
+        "majority",
+        "大多数",
+        "major（主要的）→ 占主要部分的多数",
+        "The majority of participants preferred the first option."
+      ],
+      [
+        "nevertheless",
+        "然而；尽管如此",
+        "never + the less 联想：即使如此仍继续",
+        "The task was difficult; nevertheless, she completed it."
+      ],
+      [
+        "outcome",
+        "结果",
+        "out（出来）+ come（来到）→ 最后出来的结果",
+        "The outcome depends on several factors."
+      ],
+      [
+        "purchase",
+        "购买",
+        "purchase 比 buy 正式，想成商店里的正式购物凭证",
+        "Consumers can purchase tickets online."
+      ],
+      [
+        "require",
+        "需要；要求",
+        "request（请求）联想 requirement 是必须满足的要求",
+        "The position requires strong communication skills."
+      ],
+      [
+        "strategy",
+        "策略",
+        "strategy 是把战斗（战术）计划好",
+        "A clear strategy can improve time management."
+      ],
+      [
+        "therefore",
+        "因此",
+        "there + for：因此而得出结论",
+        "The sample was small; therefore, the results are limited."
+      ],
+      [
+        "unemployment",
+        "失业",
+        "employ（雇用）加 un- 反义 → 没有工作",
+        "Youth unemployment remains a serious issue."
+      ],
+      [
+        "variety",
+        "多样性；种类",
+        "vary（变化）→ variety 是不同种类",
+        "The course offers a variety of learning activities."
+      ],
+      [
+        "whereas",
+        "然而；而",
+        "where + as 联想两边并排比较，表示对比",
+        "City living is convenient, whereas rural life is quieter."
+      ]
+    ]
+  ],
+  "listening": [
+    {
+      "title": "校园工作坊报名",
+      "topic": "校园生活 · 时间定位",
+      "script": "The workshop starts at half past nine on Saturday. Please arrive ten minutes early to register.",
+      "question": "工作坊几点开始？",
+      "answers": [
+        "9:30",
+        "9.30",
+        "nine thirty",
+        "half past nine"
+      ],
+      "answer": "9:30",
+      "explanation": "听到 half past nine，表示九点半。",
+      "tip": "留意 half past 表示几点半。"
+    },
+    {
+      "title": "社区导览改期",
+      "topic": "日常安排 · 日期定位",
+      "script": "The community tour was planned for Thursday, but it has moved to Saturday the eighteenth because of the weather.",
+      "question": "社区导览改到了几号？",
+      "answers": [
+        "18",
+        "18th",
+        "the eighteenth",
+        "eighteenth"
+      ],
+      "answer": "18号",
+      "explanation": "关键信息是 moved to Saturday the eighteenth。",
+      "tip": "听到改期提示后，以 but 后面的新日期为准。"
+    },
+    {
+      "title": "课程登记姓名",
+      "topic": "报名信息 · 姓名拼写",
+      "script": "Could I have your surname, please? Patel. That's P-A-T-E-L.",
+      "question": "姓氏如何拼写？",
+      "answers": [
+        "patel",
+        "p a t e l",
+        "p-a-t-e-l"
+      ],
+      "answer": "Patel",
+      "explanation": "录音逐字母拼出 P-A-T-E-L。",
+      "tip": "姓名拼写要逐个记字母，注意相似发音。"
+    },
+    {
+      "title": "健身中心会员费",
+      "topic": "数字与费用 · 价格定位",
+      "script": "A monthly membership is twenty-four pounds. If you pay for the whole year, it is sixty pounds.",
+      "question": "月卡费用是多少？",
+      "answers": [
+        "24",
+        "24 pounds",
+        "twenty four pounds",
+        "twenty-four pounds",
+        "£24"
+      ],
+      "answer": "£24",
+      "explanation": "月卡是 twenty-four pounds；sixty pounds 是年卡价格。",
+      "tip": "注意区分月费和年费，别被后续数字干扰。"
+    },
+    {
+      "title": "图书馆自习室",
+      "topic": "校园设施 · 地点定位",
+      "script": "The quiet study room is on the second floor, in room two hundred and four, opposite the computer area.",
+      "question": "自习室的房间号是多少？",
+      "answers": [
+        "204",
+        "two hundred and four",
+        "room 204"
+      ],
+      "answer": "204",
+      "explanation": "房间号为 two hundred and four，也就是 204。",
+      "tip": "把数字按百位、十位和个位拆开记录。"
+    },
+    {
+      "title": "志愿者培训时长",
+      "topic": "活动安排 · 时长定位",
+      "script": "The first-aid training usually takes an hour, but today's session will be shorter and last forty-five minutes.",
+      "question": "今天的培训持续多久？",
+      "answers": [
+        "45",
+        "45 minutes",
+        "forty five minutes",
+        "forty-five minutes"
+      ],
+      "answer": "45分钟",
+      "explanation": "but 后面修正了常规时长，今天是 forty-five minutes。",
+      "tip": "听到 but、however 等转折词时，留意后面的更正信息。"
+    },
+    {
+      "title": "艺术展开放时间",
+      "topic": "场馆信息 · 时间定位",
+      "script": "The gallery opens at a quarter past eight from Monday to Friday. At weekends, it opens half an hour later.",
+      "question": "美术馆工作日几点开门？",
+      "answers": [
+        "8:15",
+        "8.15",
+        "eight fifteen",
+        "a quarter past eight"
+      ],
+      "answer": "8:15",
+      "explanation": "a quarter past eight 表示八点一刻，即 8:15。",
+      "tip": "熟悉 a quarter past 表示过一刻。"
+    }
+  ]
+}
